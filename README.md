@@ -1,2 +1,2 @@
-# Expedia-Trvel-Plan
+# Expedia-Travel-Plan
 
